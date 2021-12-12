@@ -11,3 +11,5 @@ Linkedin - https://www.linkedin.com/in/matheus-dos-santos-moreira-5a91171bb/
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathmore0000&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathmore0000&layout=compact&langs_count=8&theme=dracula"/>
 </div>
+
+![Snake animation](https://github.com/mathmore0000/mathmore0000/blob/output/github-contribution-grid-snake.svg)
